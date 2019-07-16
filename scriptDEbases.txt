@@ -1,0 +1,47 @@
+ejerecicio 1
+
+MATCH (n:TKD)-[r:practica]->(p:Node)
+WHERE p.edad = "23"
+RETURN count(r)
+
+ejercicio 2
+
+MATCH (n:Node)
+WHERE n.nombre STARTS WITH "J"
+RETURN n.nombre, n.ocupacion
+
+ejercicio 4
+
+MATCH (n:Node)
+WHERE n.nombre STARTS WITH "I"
+RETURN n.nombre, n.edad
+
+Ejercicio 5
+
+MATCH (n:Mortal_Kombat)-[r:gamer]->(p:Node)
+RETURN p.nombre,p.edad,p.ocupacion
+
+Ejercicio 6
+
+MATCH (n:Node)-[r:le_gusta]->(p:Musica_folclorica)
+RETURN n,p
+
+Ejercicio 7
+MATCH (n:TKD)-[r:practica]->(p:Node)
+RETURN n,p
+
+ejercicio 8
+
+MATCH (n:Node)-[r:conoce]->(p:Node)
+WHERE p.nombre="Omar"
+RETURN n.nombre,n.edad,n.ocupacion
+
+ejercicio 9
+
+MATCH (n:Node)-[r:conoce]->(p:Node)
+RETURN n,p
+
+ejercicio 10
+
+MATCH (n:Node)-[r:amiga_de]->(p:Node)
+RETURN n,p

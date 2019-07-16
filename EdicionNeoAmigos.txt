@@ -1,0 +1,175 @@
+<ul class="graph-diagram-markup" data-internal-scale="0.89" data-external-scale="1">
+  <li class="node" data-node-id="0" data-x="-578.3363942349893" data-y="207.8889515051681"><dl class="properties"><dt>nombre</dt><dd>"Omar"</dd><dt>edad</dt><dd>"24"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="1" data-x="-656.2910787175209" data-y="-433.31925089975397">
+    <span class="caption">TKD</span>
+  </li>
+  <li class="node" data-node-id="2" data-x="81.7295031601122" data-y="-395.52300373891774"><dl class="properties"><dt>nombre</dt><dd>"Jorge"</dd><dt>edad</dt><dd>"23"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="3" data-x="-1039.3645101825844" data-y="-354.33146067415703"><dl class="properties"><dt>nombre</dt><dd>"Richar"</dd><dt>edad</dt><dd>"26"</dd><dt>ocupacion</dt><dd>"trabajador"</dd></dl></li>
+  <li class="node" data-node-id="4" data-x="-1139.486430993241" data-y="-137.62920945413998"><dl class="properties"><dt>nombre</dt><dd>"Joshue"</dd><dt>edad</dt><dd>"22"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="5" data-x="-1107.2520697090056" data-y="56.37545429186875">
+    <span class="caption">Trabajo</span>
+  </li>
+  <li class="node" data-node-id="6" data-x="-202.6613978696679" data-y="-655.0583156628558"><dl class="properties"><dt>nombre</dt><dd>"Isabel"</dd><dt>edad</dt><dd>"24"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="7" data-x="-202.6613978696679" data-y="-81.54348737738113">
+    <span class="caption">Colegio</span>
+  </li>
+  <li class="node" data-node-id="8" data-x="257.81146000208486" data-y="-52.97755093520944"><dl class="properties"><dt>nombre</dt><dd>"Ian"</dd><dt>edad</dt><dd>"23"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="10" data-x="-929.4151803348849" data-y="367.898132495666">
+    <span class="caption">Danza</span>
+  </li>
+  <li class="node" data-node-id="11" data-x="-2142.907993273786" data-y="-103.43322265282104"><dl class="properties"><dt>nombre</dt><dd>"Geovani Celorio"</dd><dt>edad</dt><dd>"38"</dd><dt>ocupacion</dt><dd>"trabajador"</dd></dl></li>
+  <li class="node" data-node-id="12" data-x="-2093.2281850750524" data-y="207.8889515051681"><dl class="properties"><dt>nombre</dt><dd>"Rodrigo"</dd><dt>edad</dt><dd>"27"</dd><dt>ocupacion</dt><dd>"enfermero"</dd></dl></li>
+  <li class="node" data-node-id="13" data-x="-1987.2985853559535" data-y="424.1454915250284"><dl class="properties"><dt>nombre</dt><dd>"Josselyn Luna"</dd><dt>edad</dt><dd>"27"</dd><dt>ocupacion</dt><dd>"paramedico"</dd></dl></li>
+  <li class="node" data-node-id="14" data-x="-1447.8059781535287" data-y="424.1454915250284"><dl class="properties"><dt>nombre</dt><dd>"Alexandra Villalva"</dd><dt>edad</dt><dd>"34"</dd><dt>ocupacion</dt><dd>"trabajador EPN"</dd></dl></li>
+  <li class="node" data-node-id="15" data-x="-1340.5715489762551" data-y="614.0280603987444"><dl class="properties"><dt>nombre</dt><dd>"Katty"</dd><dt>edad</dt><dd>"26"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="16" data-x="-929.4151803348849" data-y="828.2469242395979"><dl class="properties"><dt>nombre</dt><dd>"Angel"</dd><dt>edad</dt><dd>"27"</dd><dt>ocupacion</dt><dd>"chef"</dd></dl></li>
+  <li class="node" data-node-id="17" data-x="-61.48121613063184" data-y="540.4800188728931">
+    <span class="caption">Musica_folclorica</span>
+  </li>
+  <li class="node" data-node-id="18" data-x="-484.8043327760159" data-y="726.2721927942852"><dl class="properties"><dt>nombre</dt><dd>"Fernando"</dd><dt>edad</dt><dd>"30"</dd><dt>ocupacion</dt><dd>"Trabajador"</dd></dl></li>
+  <li class="node" data-node-id="20" data-x="-876.2395108683725" data-y="-777.0233932666566"><dl class="properties"><dt>nombre</dt><dd>"Jhon"</dd><dt>edad</dt><dd>"24"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="21" data-x="511.8921181325163" data-y="367.898132495666"><dl class="properties"><dt>nombre</dt><dd>"Andres"</dd><dt>edad</dt><dd>"27"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="22" data-x="-2020.1156732794948" data-y="-595.1919390217643">
+    <span class="caption">Mortal_Kombat</span>
+  </li>
+  <li class="node" data-node-id="23" data-x="-2093.2281850750524" data-y="-1018.2838518807067"><dl class="properties"><dt>nombre</dt><dd>"Steven"</dd><dt>edad</dt><dd>"17"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="24" data-x="-2821.110056673542" data-y="-655.0583156628558"><dl class="properties"><dt>nombre</dt><dd>"Cristina"</dd><dt>edad</dt><dd>"34"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="25" data-x="-1795.9045807913444" data-y="-978.7839170305917"><dl class="properties"><dt>nombre</dt><dd>"Fernanda"</dd><dt>edad</dt><dd>"24"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="29" data-x="-2614.788892424507" data-y="-1054.3991082009313"><dl class="properties"><dt>nombre</dt><dd>"Vero"</dd><dt>edad</dt><dd>"26"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="30" data-x="-2614.788892424507" data-y="-433.31925089975397"><dl class="properties"><dt>nombre</dt><dd>"Camila"</dd><dt>edad</dt><dd>"19"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="node" data-node-id="31" data-x="632.3291029340767" data-y="-328.3922321448166"><dl class="properties"><dt>nombre</dt><dd>"Darwin"</dd><dt>edad</dt><dd>"24"</dd><dt>ocupacion</dt><dd>"estudiante"</dd></dl></li>
+  <li class="relationship" data-from="0" data-to="1">
+    <span class="type">Practica</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="2">
+    <span class="type">practica</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="3">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="3" data-to="1">
+    <span class="type">pratica</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="4">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="5">
+    <span class="type">Trabaja</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="6">
+    <span class="type">practica</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="7">
+    <span class="type">estudio</span>
+  </li>
+  <li class="relationship" data-from="7" data-to="8">
+    <span class="type">educo</span>
+  </li>
+  <li class="relationship" data-from="2" data-to="8">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="8" data-to="0">
+    <span class="type">amigo_de</span>
+  </li>
+  <li class="relationship" data-from="7" data-to="4">
+    <span class="type">educo</span>
+  </li>
+  <li class="relationship" data-from="4" data-to="3">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="4" data-to="1">
+    <span class="type">hace</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="10">
+    <span class="type">Hobbie</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="11">
+    <span class="type">Gerente</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="12">
+    <span class="type">Enfermero</span>
+  </li>
+  <li class="relationship" data-from="5" data-to="13">
+    <span class="type">paramedico</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="14">
+    <span class="type">Instructora</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="15">
+    <span class="type">couch</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="0">
+    <span class="type">amigo_de</span>
+  </li>
+  <li class="relationship" data-from="10" data-to="16">
+    <span class="type">estudiante</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="16">
+    <span class="type">amiga_de</span>
+  </li>
+  <li class="relationship" data-from="14" data-to="16">
+    <span class="type">hermana_de</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="17">
+    <span class="type">le_gusta</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="17">
+    <span class="type">le_gusta</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="18">
+    <span class="type">le_gusta</span>
+  </li>
+  <li class="relationship" data-from="15" data-to="18">
+    <span class="type">novia_de</span>
+  </li>
+  <li class="relationship" data-from="18" data-to="0">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="1" data-to="20">
+    <span class="type">practica</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="21"></li>
+  <li class="relationship" data-from="21" data-to="0">
+    <span class="type">amigo_de</span>
+  </li>
+  <li class="relationship" data-from="0" data-to="22">
+    <span class="type">Juega</span>
+  </li>
+  <li class="relationship" data-from="22" data-to="23">
+    <span class="type">Primer_lugar</span>
+  </li>
+  <li class="relationship" data-from="23" data-to="0">
+    <span class="type">hermano</span>
+  </li>
+  <li class="relationship" data-from="22" data-to="24">
+    <span class="type">gamer</span>
+  </li>
+  <li class="relationship" data-from="22" data-to="25">
+    <span class="type">gamer</span>
+  </li>
+  <li class="relationship" data-from="24" data-to="20">
+    <span class="type">familia</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="23">
+    <span class="type">escucha</span>
+  </li>
+  <li class="relationship" data-from="23" data-to="29">
+    <span class="type">hermano_de</span>
+  </li>
+  <li class="relationship" data-from="29" data-to="0">
+    <span class="type">hermana_de</span>
+  </li>
+  <li class="relationship" data-from="17" data-to="29">
+    <span class="type">odiada_por</span>
+  </li>
+  <li class="relationship" data-from="29" data-to="30">
+    <span class="type">amiga_de</span>
+  </li>
+  <li class="relationship" data-from="30" data-to="0">
+    <span class="type">conoce</span>
+  </li>
+  <li class="relationship" data-from="7" data-to="31"></li>
+  <li class="relationship" data-from="17" data-to="31">
+    <span class="type">compone</span>
+  </li>
+</ul>
